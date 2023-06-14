@@ -1,0 +1,30 @@
+.nav-enlace{
+    display: inline-block;
+    box-shadow: 1px 2px 1px 1px #026d6d ;
+    background-color: #076a8b;
+    border-bottom-style: solid;
+    border-bottom-color: rgb(1, 73, 107);
+    color: rgb(243, 243, 248);
+    text-decoration: none;
+    border-radius: 1px;
+    text-align:center;
+    padding: 10px;
+    margin:10px ;
+    width: 500px;
+ 
+}
+nav{
+    border-radius: 2px 2px 2px 2px;
+    box-shadow: 0px 0px 0px 1px rgb(7, 130, 151);
+    justify-content: space-around;
+    background:#08acac;
+    display: flex;
+    width:50%;
+    margin:20px;
+}
+body{
+    background: wheat;
+    margin:10px ;
+}
+
+

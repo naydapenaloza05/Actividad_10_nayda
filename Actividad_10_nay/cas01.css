@@ -1,0 +1,22 @@
+#CASO1{
+    border-radius:20px 20px 20px  ;
+    border: 2px solid #43A5BE;
+    margin: 11px ; 
+    padding: 10px;  
+     width: 100%;
+  
+}
+
+body{
+    background: white;
+    margin: 50px;
+}
+button{
+    margin: 4px 1px;
+    padding: 10px 10px 10px;
+    border-radius: 7px 7px 7px 7px ;
+    background-color:rgb(15, 222, 15);
+    text-align: center;
+    border: none;
+
+}
